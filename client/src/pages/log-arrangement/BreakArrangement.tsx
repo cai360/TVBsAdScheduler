@@ -1,4 +1,4 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect, useMemo } from "react";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -24,6 +24,7 @@ import {
   Ban
 } from "lucide-react";
 import { MATERIAL_TYPES } from "@/lib/constants";
+import tvbsProgramsData from "@/data/tvbs-programs.json";
 
 interface Material {
   id: number;
@@ -34,10 +35,23 @@ interface Material {
   notes?: string;
 }
 
+interface TvbsProgram {
+  channel: string;
+  date: string;
+  time: string;
+  title: string;
+  duration: string;
+  category: string[];
+}
+
 interface ProgramSegment {
   id: string;
   name: string;
   duration: number;
+  time: string;
+  date: string;
+  channel: string;
+  category: string[];
   breaks: BreakZone[];
 }
 
@@ -56,52 +70,77 @@ interface LogStats {
   idDuration: number;
 }
 
-// Mock data for demonstration
-const mockPrograms: ProgramSegment[] = [
-  {
-    id: "focus-news",
-    name: "FOCUS全球新聞",
-    duration: 60,
-    breaks: [
-      {
-        id: 1,
-        number: 1,
-        availableSeconds: 180,
-        usedSeconds: 50,
-        materials: [
-          {
-            id: 1,
-            name: "統一企業-茶裡王",
-            seconds: 30,
-            materialType: "C",
-            category: "飲料",
-          },
-          {
-            id: 2,
-            name: "TVBS Promo",
-            seconds: 20,
-            materialType: "9",
-            category: "自製宣傳",
-          },
-        ],
-      },
-      {
-        id: 2,
-        number: 2,
-        availableSeconds: 180,
-        usedSeconds: 0,
-        materials: [],
-      },
-      {
-        id: 3,
-        number: 3,
-        availableSeconds: 180,
-        usedSeconds: 0,
-        materials: [],
-      },
-    ],
-  },
-];
+// Channel mapping for UI display
+const CHANNEL_MAP: Record<string, string> = {
+  'news': 'TVBS新聞台',
+  'entertainment': 'TVBS歡樂台',
+  'tvbs': 'TVBS無線台',
+  'asia': 'TVBS-Asia'
+};
+
+// Convert duration string to minutes
+const parseDuration = (durationStr: string): number => {
+  const match = durationStr.match(/(\d+)分鐘/);
+  return match ? parseInt(match[1]) : 60;
+};
+
+// Generate break zones based on program duration
+const generateBreakZones = (duration: number, programId: string): BreakZone[] => {
+  const segmentCount = Math.max(2, Math.floor(duration / 15)); // At least 2 segments, roughly every 15 mins
+  const breaks: BreakZone[] = [];
+  
+  for (let i = 1; i <= segmentCount; i++) {
+    breaks.push({
+      id: parseInt(`${programId.slice(-3)}${i}`), // Generate unique ID
+      number: i,
+      availableSeconds: duration >= 60 ? 180 : 120, // Longer programs get more ad time
+      usedSeconds: 0,
+      materials: [],
+    });
+  }
+  
+  return breaks;
+};
+
+// Transform TVBS program data into ProgramSegment format
+const transformTvbsPrograms = (
+  programs: TvbsProgram[], 
+  selectedDate: string, 
+  selectedChannel: string,
+  timeRange: string
+): ProgramSegment[] => {
+  let filteredPrograms = programs.filter(p => 
+    p.date === selectedDate && p.channel === selectedChannel
+  );
+
+  // Apply time range filter
+  if (timeRange !== 'all') {
+    filteredPrograms = filteredPrograms.filter(p => {
+      const hour = parseInt(p.time.split(':')[0]);
+      switch (timeRange) {
+        case 'morning': return hour >= 5 && hour < 12;
+        case 'afternoon': return hour >= 12 && hour < 18;
+        case 'prime': return hour >= 18 || hour < 5;
+        default: return true;
+      }
+    });
+  }
+
+  return filteredPrograms.map((program, index) => {
+    const duration = parseDuration(program.duration);
+    const programId = `${program.channel}-${program.time.replace(':', '')}-${index}`;
+    return {
+      id: programId,
+      name: program.title,
+      duration,
+      time: program.time,
+      date: program.date,
+      channel: program.channel,
+      category: program.category,
+      breaks: generateBreakZones(duration, programId),
+    };
+  });
+};
 
 const mockAvailableMaterials: Material[] = [
   {
@@ -141,12 +180,28 @@ export default function BreakArrangement() {
   const queryClient = useQueryClient();
   
   const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split('T')[0]);
-  const [selectedChannel, setSelectedChannel] = useState("1");
+  const [selectedChannel, setSelectedChannel] = useState("news");
   const [selectedTimeRange, setSelectedTimeRange] = useState("all");
-  const [programs, setPrograms] = useState<ProgramSegment[]>(mockPrograms);
   const [availableMaterials, setAvailableMaterials] = useState<Material[]>(mockAvailableMaterials);
   const [draggedMaterial, setDraggedMaterial] = useState<Material | null>(null);
   const [progress, setProgress] = useState(45);
+
+  // Transform TVBS program data based on selected filters
+  const programs = useMemo(() => {
+    return transformTvbsPrograms(
+      tvbsProgramsData as TvbsProgram[], 
+      selectedDate, 
+      selectedChannel, 
+      selectedTimeRange
+    );
+  }, [selectedDate, selectedChannel, selectedTimeRange]);
+
+  const [programsState, setProgramsState] = useState<ProgramSegment[]>([]);
+
+  // Update programs state when filters change
+  useEffect(() => {
+    setProgramsState(programs);
+  }, [programs]);
 
   // Fetch channels
   const { data: channels = [] } = useQuery({
@@ -200,7 +255,7 @@ export default function BreakArrangement() {
   const handleDrop = useCallback((breakId: number, programId: string) => {
     if (!draggedMaterial) return;
 
-    setPrograms(prevPrograms => 
+    setProgramsState(prevPrograms => 
       prevPrograms.map(program => {
         if (program.id !== programId) return program;
         
@@ -242,7 +297,7 @@ export default function BreakArrangement() {
   const removeMaterialFromBreak = (materialId: number, breakId: number, programId: string) => {
     let removedMaterial: Material | null = null;
 
-    setPrograms(prevPrograms => 
+    setProgramsState(prevPrograms => 
       prevPrograms.map(program => {
         if (program.id !== programId) return program;
         
@@ -333,9 +388,10 @@ export default function BreakArrangement() {
                 <SelectValue />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="1">TVBS新聞台</SelectItem>
-                <SelectItem value="2">TVBS歡樂台</SelectItem>
-                <SelectItem value="3">TVBS戲劇台</SelectItem>
+                <SelectItem value="news">TVBS新聞台</SelectItem>
+                <SelectItem value="entertainment">TVBS歡樂台</SelectItem>
+                <SelectItem value="tvbs">TVBS無線台</SelectItem>
+                <SelectItem value="asia">TVBS-Asia</SelectItem>
               </SelectContent>
             </Select>
           </div>
@@ -362,16 +418,29 @@ export default function BreakArrangement() {
           <div className="lg:col-span-2">
             <h3 className="text-lg font-semibold text-slate-900 mb-4">節目時間軸</h3>
             <div className="bg-slate-50 rounded-lg p-4 h-96 overflow-y-auto">
-              {programs.map((program) => (
-                <div key={program.id} className="program-block mb-4 p-3 bg-white rounded-lg border border-slate-200">
-                  <div className="flex items-center justify-between mb-2">
-                    <div className="flex items-center space-x-2">
-                      <span className="text-sm font-bold text-blue-600">08:00</span>
-                      <span className="text-sm font-medium text-slate-900">{program.name}</span>
-                      <span className="px-2 py-1 bg-blue-100 text-blue-800 text-xs rounded">{program.duration}分</span>
+              {programsState.length === 0 ? (
+                <div className="text-center py-8 text-slate-500">
+                  <div className="text-lg mb-2">沒有找到節目資料</div>
+                  <div className="text-sm">請選擇其他日期或頻道</div>
+                </div>
+              ) : (
+                programsState.map((program) => (
+                  <div key={program.id} className="program-block mb-4 p-3 bg-white rounded-lg border border-slate-200">
+                    <div className="flex items-center justify-between mb-2">
+                      <div className="flex items-center space-x-2">
+                        <span className="text-sm font-bold text-blue-600">{program.time}</span>
+                        <span className="text-sm font-medium text-slate-900">{program.name}</span>
+                        <span className="px-2 py-1 bg-blue-100 text-blue-800 text-xs rounded">{program.duration}分</span>
+                      </div>
+                      <div className="flex items-center space-x-2">
+                        <span className="text-xs text-slate-500">{CHANNEL_MAP[program.channel]}</span>
+                        {program.category.length > 0 && (
+                          <span className="px-1 py-0.5 bg-green-100 text-green-700 text-xs rounded">
+                            {program.category[0]}
+                          </span>
+                        )}
+                      </div>
                     </div>
-                    <span className="text-xs text-slate-500">集數: 1234</span>
-                  </div>
 
                   {/* ID Card */}
                   <div className="id-card mb-2 p-2 bg-yellow-50 border-l-4 border-yellow-400 rounded">
@@ -453,8 +522,9 @@ export default function BreakArrangement() {
                       </div>
                     ))}
                   </div>
-                </div>
-              ))}
+                  </div>
+                ))
+              )}
             </div>
           </div>
 
