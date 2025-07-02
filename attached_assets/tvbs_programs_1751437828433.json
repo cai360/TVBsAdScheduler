@@ -1,0 +1,5379 @@
+[
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "00:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "01:00",
+    "title": "島國震撼-日本防災攻略特別報導",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "02:00",
+    "title": "新聞夜視界",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "04:00",
+    "title": "一步一腳印 發現新台灣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "05:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "06:00",
+    "title": "早安台灣",
+    "duration": "180分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "09:00",
+    "title": "上午9點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "10:00",
+    "title": "上午10點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "11:00",
+    "title": "上午11點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "12:00",
+    "title": "午間12.13新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "14:00",
+    "title": "1400說新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "15:00",
+    "title": "1500整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "16:00",
+    "title": "16整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "17:00",
+    "title": "17整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "18:00",
+    "title": "晚間6 7點新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "20:00",
+    "title": "最前線新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "21:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "22:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-06-30",
+    "time": "23:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "00:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "01:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "02:00",
+    "title": "新聞夜視界",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "04:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "05:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "06:00",
+    "title": "早安台灣",
+    "duration": "180分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "09:00",
+    "title": "上午9點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "10:00",
+    "title": "上午10點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "11:00",
+    "title": "上午11點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "12:00",
+    "title": "午間12.13新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "14:00",
+    "title": "1400說新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "15:00",
+    "title": "1500整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "16:00",
+    "title": "16整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "17:00",
+    "title": "17整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "18:00",
+    "title": "晚間6 7點新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "20:00",
+    "title": "最前線新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "21:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "22:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-01",
+    "time": "23:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "00:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "01:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "02:00",
+    "title": "新聞夜視界",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "04:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "05:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "06:00",
+    "title": "早安台灣",
+    "duration": "180分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "09:00",
+    "title": "上午9點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "10:00",
+    "title": "上午10點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "11:00",
+    "title": "上午11點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "12:00",
+    "title": "午間12.13新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "14:00",
+    "title": "1400說新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "15:00",
+    "title": "1500整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "16:00",
+    "title": "16整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "17:00",
+    "title": "17整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "18:00",
+    "title": "晚間6 7點新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "20:00",
+    "title": "最前線新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "21:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "22:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-02",
+    "time": "23:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "00:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "01:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "02:00",
+    "title": "新聞夜視界",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "04:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "05:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "06:00",
+    "title": "早安台灣",
+    "duration": "180分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "09:00",
+    "title": "上午9點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "10:00",
+    "title": "上午10點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "11:00",
+    "title": "上午11點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "12:00",
+    "title": "午間12.13新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "14:00",
+    "title": "1400說新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "15:00",
+    "title": "1500整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "16:00",
+    "title": "16整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "17:00",
+    "title": "17整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "18:00",
+    "title": "晚間6 7點新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "20:00",
+    "title": "最前線新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "21:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "22:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-03",
+    "time": "23:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "00:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "01:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "02:00",
+    "title": "新聞夜視界",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "04:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "05:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "06:00",
+    "title": "早安台灣",
+    "duration": "180分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "09:00",
+    "title": "上午9點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "10:00",
+    "title": "上午10點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "11:00",
+    "title": "上午11點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "12:00",
+    "title": "午間12.13新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "14:00",
+    "title": "1400說新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "15:00",
+    "title": "1500整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "16:00",
+    "title": "16整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "17:00",
+    "title": "17整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "18:00",
+    "title": "晚間6 7點新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "20:00",
+    "title": "最前線新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "21:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "22:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-04",
+    "time": "23:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "00:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "01:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "02:00",
+    "title": "新聞夜視界",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "04:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "05:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "06:00",
+    "title": "早安台灣",
+    "duration": "180分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "09:00",
+    "title": "上午9點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "10:00",
+    "title": "上午10點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "11:00",
+    "title": "上午11點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "12:00",
+    "title": "午間12.13新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "14:00",
+    "title": "1400說新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "15:00",
+    "title": "1500整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "16:00",
+    "title": "16整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "17:00",
+    "title": "17整點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "18:00",
+    "title": "晚間6 7點新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "20:00",
+    "title": "晚間8點新聞",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "21:00",
+    "title": "九點熱話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "22:00",
+    "title": "十點不一樣",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "news",
+    "date": "2025-07-05",
+    "time": "23:00",
+    "title": "新聞夜視界",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "00:00",
+    "title": "小捨得",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "01:00",
+    "title": "小捨得",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "02:00",
+    "title": "小娘惹之翡翠山",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "03:00",
+    "title": "小娘惹之翡翠山",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "04:00",
+    "title": "食尚玩家熱血48小時",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "05:00",
+    "title": "食尚玩家天菜就醬吃",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "06:00",
+    "title": "夜市王盛好概念手窈飲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "07:00",
+    "title": "拜託ATM(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "08:00",
+    "title": "新聞女王#22",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "09:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "10:00",
+    "title": "食尚玩家瘋狂總部",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "11:00",
+    "title": "夜市王盛好概念手窈飲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "12:00",
+    "title": "食尚玩家熱血48小時",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "13:00",
+    "title": "新聞女王",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "14:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "15:00",
+    "title": "11點熱吵店精選集",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "16:00",
+    "title": "健康2.0享食尚滴雞精(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "17:00",
+    "title": "夜市王盛好概念手窈飲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "18:00",
+    "title": "食尚玩家熱血48小時",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "19:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "20:00",
+    "title": "流金歲月#32",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "21:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "22:00",
+    "title": "食尚玩家瘋狂總部台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-06-30",
+    "time": "23:00",
+    "title": "11點熱吵店享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "00:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "01:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "02:00",
+    "title": "食尚玩家瘋狂總部台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "03:00",
+    "title": "11點熱吵店享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "04:00",
+    "title": "食尚玩家瘋狂總部台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "05:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "06:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "07:00",
+    "title": "拜託ATM(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "08:00",
+    "title": "新聞女王#23",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "09:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "10:00",
+    "title": "食尚玩家魚肉鄉民",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "11:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "12:00",
+    "title": "食尚玩家瘋狂總部台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "13:00",
+    "title": "新聞女王",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "14:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "15:00",
+    "title": "11點熱吵店享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "16:00",
+    "title": "健康2.0享食尚滴雞精(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "17:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "18:00",
+    "title": "食尚玩家瘋狂總部台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "19:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "20:00",
+    "title": "流金歲月#33",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "21:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "22:00",
+    "title": "食尚玩家魚肉鄉民台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-01",
+    "time": "23:00",
+    "title": "11點熱吵店享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "00:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "01:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "02:00",
+    "title": "食尚玩家魚肉鄉民台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "03:00",
+    "title": "11點熱吵店享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "04:00",
+    "title": "食尚玩家魚肉鄉民台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "05:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "06:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "07:00",
+    "title": "拜託ATM(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "08:00",
+    "title": "新聞女王#24",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "09:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "10:00",
+    "title": "食尚玩家2天1夜go",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "11:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "12:00",
+    "title": "食尚玩家魚肉鄉民台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "13:00",
+    "title": "新聞女王",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "14:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "15:00",
+    "title": "11點熱吵店享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "16:00",
+    "title": "健康2.0享食尚滴雞精(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "17:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "18:00",
+    "title": "食尚玩家魚肉鄉民台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "19:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "20:00",
+    "title": "流金歲月#34",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "21:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "22:00",
+    "title": "食尚玩家2天1夜go台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-02",
+    "time": "23:00",
+    "title": "11點熱吵店",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "00:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "01:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "02:00",
+    "title": "食尚玩家2天1夜go台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "03:00",
+    "title": "11點熱吵店",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "04:00",
+    "title": "食尚玩家2天1夜go台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "05:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "06:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "07:00",
+    "title": "拜託ATM(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "08:00",
+    "title": "新聞女王#25",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "09:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "10:00",
+    "title": "食尚玩家天菜就醬吃",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "11:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "12:00",
+    "title": "食尚玩家2天1夜go台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "13:00",
+    "title": "新聞女王",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "14:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "15:00",
+    "title": "11點熱吵店",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "16:00",
+    "title": "健康2.0享食尚滴雞精(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "17:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "18:00",
+    "title": "食尚玩家2天1夜go台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "19:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "20:00",
+    "title": "流金歲月#35",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "21:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "22:00",
+    "title": "食尚玩家天菜就醬吃台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-03",
+    "time": "23:00",
+    "title": "11點熱吵店享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "00:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "01:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "02:00",
+    "title": "食尚玩家天菜就醬吃台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "03:00",
+    "title": "11點熱吵店享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "04:00",
+    "title": "食尚玩家天菜就醬吃台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "05:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "06:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "07:00",
+    "title": "拜託ATM(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "08:00",
+    "title": "新聞女王#26",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "09:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "10:00",
+    "title": "食尚玩家熱血48小時",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "11:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "12:00",
+    "title": "食尚玩家天菜就醬吃台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "13:00",
+    "title": "新聞女王",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "14:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "15:00",
+    "title": "11點熱吵店享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "16:00",
+    "title": "健康2.0(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "17:00",
+    "title": "女人我最大PP塑崩打卡褲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "18:00",
+    "title": "食尚玩家天菜就醬吃台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "19:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "20:00",
+    "title": "流金歲月#36",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "21:00",
+    "title": "夜市王盛好概念手窈飲",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "22:00",
+    "title": "食尚玩家熱血48小時台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-04",
+    "time": "23:00",
+    "title": "11點熱吵店(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "00:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "01:00",
+    "title": "夜市王盛好概念手窈飲",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "02:00",
+    "title": "食尚玩家熱血48小時台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "03:00",
+    "title": "11點熱吵店(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "04:00",
+    "title": "食尚玩家熱血48小時台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "05:00",
+    "title": "流金歲月",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "06:00",
+    "title": "食尚玩家熱血48小時台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "07:00",
+    "title": "食尚玩家天菜就醬吃台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "08:00",
+    "title": "TVBS看板人物(林青霞)",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "09:00",
+    "title": "TVBS看板人物(周小琴)",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "10:00",
+    "title": "11點熱吵店(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "11:00",
+    "title": "女人我最大PP塑崩打卡褲(精選集)",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "12:00",
+    "title": "食尚玩家熱血48小時台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "13:00",
+    "title": "食尚玩家天菜就醬吃台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "14:00",
+    "title": "我們這一攤2 享食尚滴雞精",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "16:00",
+    "title": "老少女奇遇記2 享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "17:00",
+    "title": "老少女奇遇記2 享食尚滴雞精",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "18:00",
+    "title": "食尚玩家魚肉鄉民台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "19:00",
+    "title": "食尚玩家2天1夜go台塑石油APP",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "20:00",
+    "title": "我們這一攤2 享食尚滴雞精",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "22:00",
+    "title": "我們回家吧3",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "entertainment",
+    "date": "2025-07-05",
+    "time": "23:00",
+    "title": "我們回家吧3",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "00:00",
+    "title": "新聞大白話特報1500",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "01:00",
+    "title": "TVBS文茜的世界周報",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "02:00",
+    "title": "TVBS文茜的世界財經周報",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "03:00",
+    "title": "TVBS戰情室",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "05:00",
+    "title": "新聞大白話特報1600",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "06:00",
+    "title": "TVBS文茜的世界周報",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "07:00",
+    "title": "TVBS文茜的世界財經周報",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "08:00",
+    "title": "健康2.0",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "09:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "10:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "11:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "12:00",
+    "title": "FOCUS世界新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "14:00",
+    "title": "新聞大白話",
+    "duration": "240分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "18:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "19:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "20:00",
+    "title": "少康戰情室",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "22:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-06-30",
+    "time": "23:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "00:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "01:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "02:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "03:00",
+    "title": "少康戰情室",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "04:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "05:00",
+    "title": "FOCUS世界新聞",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "07:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "08:00",
+    "title": "健康2.0",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "09:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "10:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "11:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "12:00",
+    "title": "FOCUS世界新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "14:00",
+    "title": "新聞大白話",
+    "duration": "240分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "18:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "19:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "20:00",
+    "title": "少康戰情室",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "22:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-01",
+    "time": "23:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "00:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "01:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "02:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "03:00",
+    "title": "少康戰情室",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "04:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "05:00",
+    "title": "FOCUS世界新聞",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "07:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "08:00",
+    "title": "健康2.0",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "09:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "10:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "11:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "12:00",
+    "title": "FOCUS世界新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "14:00",
+    "title": "新聞大白話",
+    "duration": "240分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "18:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "19:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "20:00",
+    "title": "少康戰情室",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "22:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-02",
+    "time": "23:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "00:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "01:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "02:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "03:00",
+    "title": "少康戰情室",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "04:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "05:00",
+    "title": "FOCUS世界新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "06:00",
+    "title": "Focus全球新聞",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "08:00",
+    "title": "健康2.0",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "09:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "10:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "11:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "12:00",
+    "title": "FOCUS世界新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "14:00",
+    "title": "新聞大白話",
+    "duration": "240分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "18:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "19:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "20:00",
+    "title": "少康戰情室",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "22:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-03",
+    "time": "23:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "00:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "01:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "02:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "03:00",
+    "title": "少康戰情室",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "04:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "05:00",
+    "title": "FOCUS世界新聞",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "07:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "08:00",
+    "title": "健康2.0",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "09:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "10:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "11:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "12:00",
+    "title": "FOCUS世界新聞",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "14:00",
+    "title": "新聞大白話",
+    "duration": "240分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "18:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "19:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "20:00",
+    "title": "少康戰情室",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "22:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-04",
+    "time": "23:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "00:00",
+    "title": "國民大會",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "01:00",
+    "title": "地球黃金線",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "02:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "03:00",
+    "title": "少康戰情室",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "04:00",
+    "title": "FOCUS國際話題",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "05:00",
+    "title": "一步一腳印 發現新台灣",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "06:00",
+    "title": "FOCUS世界新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "07:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "08:00",
+    "title": "健康2.0",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "09:00",
+    "title": "少康戰情室",
+    "duration": "120分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "11:00",
+    "title": "金臨天下",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "12:00",
+    "title": "Focus全球新聞",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "13:00",
+    "title": "健康2.0",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "14:00",
+    "title": "新聞大白話特報",
+    "duration": "240分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "18:00",
+    "title": "健康2.0",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "19:00",
+    "title": "TVBS戰情室",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "21:00",
+    "title": "TVBS文茜的世界周報",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "22:00",
+    "title": "TVBS文茜的世界周報(歐洲版)",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "tvbs",
+    "date": "2025-07-05",
+    "time": "23:00",
+    "title": "T觀點",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "00:00",
+    "title": "全明星辯論會 Let's Debate",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "01:00",
+    "title": "全明星辯論會 Let's Debate",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "02:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "03:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "04:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "05:00",
+    "title": "全明星辯論會 Let's Debate",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "06:00",
+    "title": "全明星辯論會 Let's Debate",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "07:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "08:00",
+    "title": "一步一腳印 發現新台灣 Discover New Taiwan Step By Step",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "09:00",
+    "title": "拜託ATM Battle ATM",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "10:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "11:00",
+    "title": "食尚玩家 熱血48小時 Super Taste: 48 Hour Burning Desire!",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "12:00",
+    "title": "FOCUS世界新聞 Focus World News",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "13:00",
+    "title": "FOCUS世界新聞 Focus World News",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "14:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "15:00",
+    "title": "拜託ATM Battle ATM",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "16:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "17:00",
+    "title": "食尚玩家 熱血48小時 Super Taste：48- Hour Burning Desire!",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "18:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "19:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "20:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "21:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "22:00",
+    "title": "食尚玩家-瘋狂總部 Super Taste: Go Bananas! Corp.",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-06-30",
+    "time": "23:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "00:00",
+    "title": "少康戰情室 Shao Kang's War Room",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "02:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "03:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "04:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "05:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "06:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "07:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "08:00",
+    "title": "少康戰情室 Shao Kang's War Room",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "09:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "10:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "11:00",
+    "title": "食尚玩家-瘋狂總部 Super Taste: Go Bananas! Corp.",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "12:00",
+    "title": "FOCUS世界新聞 Focus World News",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "14:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "15:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "16:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "17:00",
+    "title": "食尚玩家-瘋狂總部 Super Taste: Go Bananas! Corp.",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "18:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "19:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "20:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "21:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "22:00",
+    "title": "食尚玩家 魚肉鄉民 Super Taste: Go! Parasites",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-01",
+    "time": "23:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "00:00",
+    "title": "少康戰情室 Shao Kang's War Room",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "02:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "03:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "04:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "05:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "06:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "07:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "08:00",
+    "title": "少康戰情室 Shao Kang's War Room",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "09:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "10:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "11:00",
+    "title": "食尚玩家 魚肉鄉民 Super Taste: Go! Parasites",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "12:00",
+    "title": "FOCUS世界新聞 Focus World News",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "14:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "15:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "16:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "17:00",
+    "title": "食尚玩家 Super Taste: Go! Parasites",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "18:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "19:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "20:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "21:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "22:00",
+    "title": "食尚玩家 2天1夜 go Super Taste: Go Go! Two- Day Trip",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-02",
+    "time": "23:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "00:00",
+    "title": "少康戰情室 Shao Kang's War Room",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "02:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "03:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "04:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "05:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "06:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "07:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "08:00",
+    "title": "少康戰情室 Shao Kang's War Room",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "09:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "10:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "11:00",
+    "title": "食尚玩家 2天1夜 go Super Taste: Go Go! Two- Day Trip",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "12:00",
+    "title": "FOCUS世界新聞 Focus World News",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "14:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "15:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "16:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "17:00",
+    "title": "食尚玩家 2天1夜 go Super Taste: Go Go! Two- Day Trip",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "18:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "19:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "20:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "21:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "22:00",
+    "title": "食尚玩家 天菜就醬吃 Super Taste: Amazing Bites",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-03",
+    "time": "23:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "00:00",
+    "title": "少康戰情室 Shao Kang's War Room",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "02:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "03:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "04:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "05:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "06:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "07:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "08:00",
+    "title": "少康戰情室 Shao Kang's War Room",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "09:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "10:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "11:00",
+    "title": "食尚玩家 天菜就醬吃 Super Taste: Amazing Bites",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "12:00",
+    "title": "FOCUS世界新聞 Focus World News",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "14:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "15:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "16:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "17:00",
+    "title": "食尚玩家 天菜就醬吃 Super Taste: Amazing Bites",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "18:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "19:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "20:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "21:00",
+    "title": "拜託ATM Battle ATM",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "22:00",
+    "title": "食尚玩家 熱血48小時 Super Taste: 48 Hour Burning Desire!",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-04",
+    "time": "23:00",
+    "title": "一步一腳印 發現新台灣 Discover New Taiwan Step By Step",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "00:00",
+    "title": "少康戰情室 Shao Kang's War Room",
+    "duration": "120分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "02:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "03:00",
+    "title": "一步一腳印 發現新台灣 Discover New Taiwan Step By Step",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "04:00",
+    "title": "國民大會 Citizens' Subjects",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "05:00",
+    "title": "拜託ATM Battle ATM",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "06:00",
+    "title": "Focus全球新聞 Global Focus",
+    "duration": "60分鐘",
+    "category": [
+      "保護級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "07:00",
+    "title": "地球黃金線 Global Golden Line",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "08:00",
+    "title": "食尚玩家 2天1夜 go Super Taste: Go Go! Two- Day Trip",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "09:00",
+    "title": "健康2.0 All About Health",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "10:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "11:00",
+    "title": "女人我最大 Queen",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "12:00",
+    "title": "整點新聞 TVBS News",
+    "duration": "120分鐘",
+    "category": [
+      "普遍級",
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "14:00",
+    "title": "全明星辯論會 Let's Debate",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "15:00",
+    "title": "全明星辯論會 Let's Debate",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "16:00",
+    "title": "11點熱吵店 Chop Chop Show",
+    "duration": "60分鐘",
+    "category": [
+      "輔15級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "17:00",
+    "title": "TVBS看板人物 TVBS Insight People",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "18:00",
+    "title": "食尚玩家 熱血48小時 Super Taste: 48 Hour Burning Desire!",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "19:00",
+    "title": "天才衝衝衝 Genius Go Go Go",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "20:00",
+    "title": "天才衝衝衝 Genius Go Go Go",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "21:00",
+    "title": "TVBS文茜的世界周報 TVBS Sisy's World News",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "22:00",
+    "title": "TVBS文茜的世界周報-歐洲版 TVBS Sisy's World News Europe",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  },
+  {
+    "channel": "asia",
+    "date": "2025-07-05",
+    "time": "23:00",
+    "title": "食尚玩家 天菜就醬吃 Super Taste: Amazing Bites",
+    "duration": "60分鐘",
+    "category": [
+      "輔12級"
+    ]
+  }
+]
