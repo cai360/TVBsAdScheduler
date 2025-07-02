@@ -1,0 +1,95 @@
+
+
+### TVBS 業務廣告與專案收入管理系統 (TVBS Business Ad & Project Revenue Management System)
+
+1. **登入頁 (Login)**
+
+2. **首頁 (Dashboard)**
+    - 今日排程總覽 (Today's Schedule Overview)
+    - 當月廣告統計 (Current Month Ad Statistics)
+    - 系統公告 (System Announcements)
+        
+3. **排程管理 (Scheduling Management)**
+	- **排期進單管理 (Scheduling Order Entry Management)**
+	    - 排期單建立 (Scheduling Order Creation)
+	    - 排期單明細 (Scheduling Order Details)
+	    - 排期單審核流程 (Scheduling Order Approval Process)    
+	- **每日節目排程 (Daily Program Scheduling)**
+	    - 節目表建立 (Program Schedule Creation) 
+	    - 節目線異動 (Program Line Adjustment)
+	    - 節目主檔管理 (Program Master Data Management)
+	    - 節目明細檔管理 (Program Detail Data Management)
+	    - 播映月份檔管理 (Broadcast Month Data Management)
+	    - 延期管理 (Postponement Management)
+	- **廣告時段管理 (Ad Slot Management)**
+	    - 頻道可排播秒數設定 (Channel Schedulable Seconds Setting)
+	    - 頻道基本資料管理 (Channel Basic Data Management)    
+	- **廣告排播編排 (LOG 編排) (Ad Broadcast Arrangement - LOG Arrangement)**
+	    - 節目線編排 (Program Line Arrangement)
+	    - 破口編排 (Break Arrangement)
+	    - 廣告位置編排 (Ad Placement Arrangement)
+	    - ID 卡編排 (ID Card Arrangement)
+	    - Promo 編排 (Promo Arrangement)
+	    - 置入規則編排 (Product Placement Rule Arrangement)
+	    - 三明治規則編排 (Sandwich Rule Arrangement)
+	    - LOG 轉檔作業 (LOG File Conversion)  
+	- **託播檔管理 (Broadcast Log File Management)**
+	    - 排期單轉託播單 (Scheduling Order to Broadcast Order Conversion)
+	    - 託播單產生 (Broadcast Order Generation)
+	    - 郵件發送 (Email Dispatch)
+	- **播出結果查詢 (Broadcast Result Query)**
+        
+4. **銷售與業務管理 (Sales & Business Management)**
+    - 銷售辦法管理 (Sales Method Management)
+        - 節目組合 (Program Packages)
+        - 價格策略 (Pricing Strategies)
+        - 刊播規則 (Broadcast Rules)
+        - 尼爾森標準 (Nielsen Standards)
+    - 託播單管理 (Broadcast Order Management)
+        - 託播單列表 (Broadcast Order List)
+        - 託播單新增／編輯 (Broadcast Order Add/Edit)   
+    - 客戶統計報表 (Customer Statistics Report)
+        
+5. **電視廣告管理 (TV Ad Management)**
+    - 廣告素材管理 (Ad Material Management)
+        - 材料主檔 (Material Master File)
+        - 專案材料 (Project Materials)
+        - MTV 宣傳帶 (MTV Promos)
+        - AGB 主/子分類檔管理 (AGB Master/Sub Category File Management)
+    - 材料延申申請 (Material Extension Application)
+    - 進帶流程管理 (Ingest Process Management)
+    - 紅本資料自動更新 (Red Book Data Auto Update)
+    - 廣告相關報表 (Ad-Related Reports)
+
+6. **報表與下載 (Reports & Download)**
+    
+    - 廣告排程報表 (Ad Scheduling Report)
+    - 播出結果報表 (Broadcast Result Report)
+    - 客戶統計報表 (Customer Statistics Report)
+    - 系統基礎資料報表 (System Master Data Report)
+        
+7. **基礎資料管理 (Master Data Management)**
+    
+    - 公司資料管理 (Company Data Management)
+    - 部門資料管理 (Department Data Management)
+    - 員工資料管理 (Employee Data Management)
+    - 客戶資料管理 (Customer Data Management)
+    - 客戶集團管理 (Customer Group Management)
+    - 代理商群組管理 (Agent Group Management)
+    - 廠商資料管理 (Vendor Data Management)
+    - 區域、國別、銀行、貨幣、稅碼、付款條件設定 (Area, Country, Bank, Currency, Tax Code, Payment Terms Settings)
+    - 目標受眾資料 (TA 基本資料) (Target Audience Data - TA Basic Data)
+    - 使用單號碼設定 (Serial Number Setting)
+    - 聯絡人資料管理 (Contact Person Data Management)
+    - 廣告材料分類規則 (Ad Material Classification Rules)
+    - 節目類型設定 (Program Type Setting)
+    - 廣告類型設定 (Ad Type Setting)
+        
+8. **帳號與權限管理 (Account & Permission Management)**
+    
+    - 帳號列表 (Account List)
+    - 角色與權限設定 (Role & Permission Settings)
+
+9. **系統設定 (System Settings)**
+
+    - 系統參數設定 (System Parameter Settings)
